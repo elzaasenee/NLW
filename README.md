@@ -1,4 +1,4 @@
-# NLW e Sports - Trilha Explorer
+# NLW eSports - Trilha Explorer
 Projeto construido no evento Next Leverl Week da Rocketseat
 
 ![preview](./github.NLW.png)
