@@ -1,10 +1,9 @@
 # NLW e Sports - Trilha Explorer
-
-![preview](./github.NLW)
-
 Projeto construido no evento Next Leverl Week da Rocketseat
 
-[🔗 Clique aqui para acessar] (https://elzaasenee.github.io/NLW)
+![preview](./github.NLW.png)
+
+🔗 [Clique aqui para acessar](https://elzaasenee.github.io/NLW)
 
 ## Tecnologias utilizadas 
 
